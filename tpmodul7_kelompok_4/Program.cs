@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        var mhs = new DataMahasiswa2311104053();
-        mhs.ReadJSON();
+        var kuliah = new KuliahMahasiswa2311104053();
+        kuliah.ReadJSON();
     }
 }

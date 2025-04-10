@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tpmodul7_kelompok_4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\bin\\Debug\\net8.0\\tp7_2_2311104053.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tpmodul7_kelompok_4\\bin\\Debug\\net8.0\\tp7_2_2311104053.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\bin\\Debug\\net8.0\\tp7_1_2311104053.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tpmodul7_kelompok_4\\bin\\Debug\\net8.0\\tp7_1_2311104053.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\KuliahMahasiswa2311104053.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tpmodul7_kelompok_4\\KuliahMahasiswa2311104053.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tpmodul7_kelompok_4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\DataMahasiswa2311104053.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "tp7_1_2311104053.json",
-              "DocumentMoniker": "D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\bin\\Debug\\net8.0\\tp7_1_2311104053.json",
-              "RelativeDocumentMoniker": "tpmodul7_kelompok_4\\bin\\Debug\\net8.0\\tp7_1_2311104053.json",
-              "ToolTip": "D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\bin\\Debug\\net8.0\\tp7_1_2311104053.json",
-              "RelativeToolTip": "tpmodul7_kelompok_4\\bin\\Debug\\net8.0\\tp7_1_2311104053.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "tp7_2_2311104053.json",
+              "DocumentMoniker": "D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\bin\\Debug\\net8.0\\tp7_2_2311104053.json",
+              "RelativeDocumentMoniker": "tpmodul7_kelompok_4\\bin\\Debug\\net8.0\\tp7_2_2311104053.json",
+              "ToolTip": "D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\bin\\Debug\\net8.0\\tp7_2_2311104053.json",
+              "RelativeToolTip": "tpmodul7_kelompok_4\\bin\\Debug\\net8.0\\tp7_2_2311104053.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-10T06:57:42.635Z",
+              "WhenOpened": "2025-04-10T07:20:02.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "KuliahMahasiswa2311104053.cs",
+              "DocumentMoniker": "D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\KuliahMahasiswa2311104053.cs",
+              "RelativeDocumentMoniker": "tpmodul7_kelompok_4\\KuliahMahasiswa2311104053.cs",
+              "ToolTip": "D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\KuliahMahasiswa2311104053.cs",
+              "RelativeToolTip": "tpmodul7_kelompok_4\\KuliahMahasiswa2311104053.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:18:19.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul7_kelompok_4\\Program.cs",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DataMahasiswa2311104053.cs",
               "DocumentMoniker": "D:\\Marvel\\kpl_se07_02\\tpmodul7_kelompok_4\\tpmodul7_kelompok_4\\DataMahasiswa2311104053.cs",
               "RelativeDocumentMoniker": "tpmodul7_kelompok_4\\DataMahasiswa2311104053.cs",
@@ -68,8 +85,7 @@
               "RelativeToolTip": "tpmodul7_kelompok_4\\DataMahasiswa2311104053.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwBYAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T06:06:56.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T06:06:56.855Z"
             }
           ]
         }
