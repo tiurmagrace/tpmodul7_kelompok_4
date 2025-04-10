@@ -1,8 +1,7 @@
 {
-    "nama": {
-        "depan": "Tiurma Grace",
-        "belakang": "Angelina"
-    },
-    "nim": 2311104042,
-    "fakultas": "informatika"
-}
+    "nama_depan": "Candra",
+    "nama_belakang": "Putra",
+    "nim": "2311104061",
+    "fakultas": "Informatika"
+  }
+  

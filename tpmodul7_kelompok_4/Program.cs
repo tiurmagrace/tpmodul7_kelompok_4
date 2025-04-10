@@ -1,9 +1,13 @@
-﻿class Program
+﻿using System;
+
+class Program
 {
     static void Main(string[] args)
     {
-        DataMahasiswa2311104042.ReadJSON();
-        KuliahMahasiswa2311104042.ReadJSON(); 
+        Console.WriteLine("=== JSON 1 ===");
+        DataMahasiswa2311104061.ReadJSON();
+
+        Console.WriteLine("\nTekan Enter untuk keluar...");
         Console.ReadLine();
     }
 }
