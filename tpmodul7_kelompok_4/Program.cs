@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿internal class Program
+{
+    static void Main(string[] args)
+    {
+        var mhs = new DataMahasiswa2311104053();
+        mhs.ReadJSON();
+    }
+}
